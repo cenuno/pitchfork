@@ -1,0 +1,3 @@
+people, cool_status
+elvis, true
+selena, true
